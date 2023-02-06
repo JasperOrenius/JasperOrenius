@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**JasperOrenius/JasperOrenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻: About me :
+I am a full stack developer
+  - 💾 I work as a IndieDeveloper and I contribute backend and frontend for building different kinds of applications.
 
-Here are some ideas to get you started:
+### 🛠️ Languages and tools :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visualstudio" alt="Visualstudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title"Unity" alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title"Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title"Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title"Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+</div>
+
+### 🔥 My stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasperOrenius)](https://github.com/anuraghazra/github-readme-stats)
