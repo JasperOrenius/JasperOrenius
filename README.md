@@ -3,6 +3,7 @@
 ### 👨‍💻: About me :
 I am a full stack developer
   - 💾 I work as a IndieDeveloper and I contribute backend and frontend for building different kinds of applications.
+  - ⚡ In my freetime, I go to the gym alot.
 
 ### 🛠️ Languages and tools :
 
