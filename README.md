@@ -2,7 +2,7 @@
 
 ### 👨‍💻: About me :
 I am a full stack developer
-  - 💾 I work as a IndieDeveloper and I contribute backend and frontend for building different kinds of applications.
+  - 💾 I work as a IndieDeveloper and I contribute backend and frontend for building different kinds of c# applications and video games.
   - ⚡ In my freetime, I go to the gym and code video games.
 
 ### 🛠️ Languages and tools :
