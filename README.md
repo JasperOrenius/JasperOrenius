@@ -22,6 +22,7 @@
   - Visual Studio
   - Visual Studio Code
   - Unity
+  - Git
   - MySql
   - XAMPP
 
