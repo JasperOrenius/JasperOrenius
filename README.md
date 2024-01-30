@@ -11,7 +11,7 @@
   I specialize in game development, desktop app development, web development (backend and frontend), data science.
   My proficiency includes:
 
-# Languages
+#### Languages
   - C#
   - Python
   - HTML
@@ -19,7 +19,7 @@
   - PHP
   - JavaScript
 
-# Tools
+#### Tools
   - Visual Studio
   - Visual Studio Code
   - Unity
