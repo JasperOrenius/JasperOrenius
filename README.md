@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jasper Orenius, a passionate and creative programmer based in Finland.
 
 ## 👨‍💻: About Me :
-  - I have a keen interest in mostly programming video games and other applications with c# language.
+  - I have a keen interest in mostly programming video games and other applications with c# programming language.
   - I also have experience with other programming languages and different frameworks.
   - I'm a good problem solver and enjoy dissecting challenges, understanding the intricacies, and coming up with effective solutions.
   - In my freetime I like to work out and go to the gym alot.
