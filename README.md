@@ -7,7 +7,7 @@
   - In my freetime I like to work out and go to the gym alot.
 
 ## 💪: My Expertise :
-  I specialize in game development, desktop app development, web development (backend and frontend), data science.
+  I specialize in game development, desktop app development and web development (backend and frontend).
   My proficiency includes:
 
 #### Languages
